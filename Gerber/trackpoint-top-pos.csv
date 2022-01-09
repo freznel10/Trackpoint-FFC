@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","2.2u","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",119.130000,-85.620000,90.000000,top
+"J1","FFC3B11-12-T","GCT_FFC3B11-12-T",112.870000,-73.620000,180.000000,top
+"J2","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",125.270000,-81.770000,90.000000,top
+"J3","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",125.270000,-78.100000,180.000000,top
+"R1","4.7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",110.930000,-85.650000,90.000000,top
+"R2","4.7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",106.430000,-85.650000,-90.000000,top
+"R3","100k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",114.920000,-85.650000,-90.000000,top
